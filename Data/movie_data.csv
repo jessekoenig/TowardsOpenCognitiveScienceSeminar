@@ -1,0 +1,42 @@
+movie_id,title,rating,type
+0,Iron Man,7.9,original
+1,Iron Man 2,7.0,sequel
+2,Iron Man 3,7.2,sequel
+3,Die Tribute von Panem - The Hunger Games,7.2,original
+4,Die Tribute von Panem - Catching Fire,7.5,sequel
+5,Die Tribute von Panem - Mockingjay Teil 1,6.6,sequel
+6,Die Tribute von Panem - Mockingjay  Teil 2,6.5,sequel
+7,Die Bourne Identität,7.9,original
+8,Die Bourne Verschwörung,7.7,sequel
+9,Das Bourne Ultimatum,8.0,sequel
+10,Das Bourne Vermächtnis,6.7,sequel
+11,Jason Bourne,6.6,sequel
+12,Mission: Impossible,7.1,original
+13,Mission: Impossible II,6.1,sequel
+14,Mission: Impossible III,6.9,sequel
+15,Mission: Impossible - Phantom Protokoll,7.4,sequel
+16,Mission: Impossible - Rogue Nation,7.4,sequel
+17,Mission: Impossible - Fallout,7.8,sequel
+18,Die Mumie,7.0,original
+19,Die Mumie kehrt zurück,6.3,sequel
+20,Die Mumie - Das Grabmal des Drachenkaisers,5.2,sequel
+21,96 Hours,7.8,original
+22,96 Hours - Taken 2,6.3,sequel
+23,96 Hours - Taken 3,6.0,sequel
+24,Kick-Ass,7.6,original
+25,Kick-Ass 2,6.5,original
+26,Die Unfassbaren - Now You See Me,7.3,original
+27,Die Unfassbaren 2,6.5,sequel
+28,Die Unglaublichen,8.0,original
+29,Die Unglaublichen 2,7.6,sequel
+30,G.I. Joe - Geheimauftrag Cobra,5.8,original
+31,G.I. Joe - Die Abrechnung,5.8,sequel
+32,Lethal Weapon - Zwei stahlharte Profis,7.6,original
+33,Lethal Weapon 2 - Brennpunkt L.A.,7.2,sequel
+34,Lethal Weapon 3: Die Profis sind zurück,6.7,sequel
+35,Lethal Weapon 4 - Zwei Profis räumen auf,6.6,sequel
+36,The Equalizer,7.2,original
+37,The Equalizer 2,6.7,sequel
+38,Olympus Has Fallen - Die Welt in Gefahr,6.5,original
+39,London Has Fallen,5.9,sequel
+40,Angel Has Fallen,6.4,sequel
